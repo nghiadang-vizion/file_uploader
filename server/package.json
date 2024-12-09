@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "read-excel-file": "^5.8.6",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
